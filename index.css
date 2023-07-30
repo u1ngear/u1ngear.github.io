@@ -1422,7 +1422,7 @@
   }
   .home-text17 {
     color: rgb(255, 255, 255);
-    font-size: 23px;
+    font-size: 16px;
     font-style: normal;
     font-family: Inter Tight;
     font-weight: 400;
@@ -1432,7 +1432,7 @@
   }
   .home-text18 {
     color: rgb(255, 255, 255);
-    font-size: 23px;
+    font-size: 16px;
     font-style: normal;
     font-family: Inter Tight;
     font-weight: 400;
@@ -1442,7 +1442,7 @@
   }
   .home-text19 {
     color: rgb(255, 255, 255);
-    font-size: 23px;
+    font-size: 16px;
     font-style: normal;
     font-family: Inter Tight;
     font-weight: 400;
@@ -1452,7 +1452,7 @@
   }
   .home-text20 {
     color: rgb(255, 255, 255);
-    font-size: 23px;
+    font-size: 16px;
     font-style: normal;
     font-family: Inter Tight;
     font-weight: 400;
@@ -1462,7 +1462,7 @@
   }
   .home-text21 {
     color: rgb(255, 255, 255);
-    font-size: 23px;
+    font-size: 16px;
     font-style: normal;
     font-family: Inter Tight;
     font-weight: 400;
@@ -1472,7 +1472,7 @@
   }
   .home-text22 {
     color: rgb(255, 255, 255);
-    font-size: 23px;
+    font-size: 16px;
     font-style: normal;
     font-family: Inter Tight;
     font-weight: 400;
@@ -1482,7 +1482,7 @@
   }
   .home-text23 {
     color: rgb(255, 255, 255);
-    font-size: 23px;
+    font-size: 16px;
     font-style: normal;
     font-family: Inter Tight;
     font-weight: 400;
@@ -1492,7 +1492,7 @@
   }
   .home-text24 {
     color: rgb(255, 255, 255);
-    font-size: 23px;
+    font-size: 16px;
     font-style: normal;
     font-family: Inter Tight;
     font-weight: 400;
@@ -1502,7 +1502,7 @@
   }
   .home-text25 {
     color: rgb(255, 255, 255);
-    font-size: 23px;
+    font-size: 16px;
     font-style: normal;
     font-family: Inter Tight;
     font-weight: 400;
@@ -1512,7 +1512,7 @@
   }
   .home-text26 {
     color: rgb(255, 255, 255);
-    font-size: 23px;
+    font-size: 16px;
     font-style: normal;
     font-family: Inter Tight;
     font-weight: 400;
@@ -1522,7 +1522,7 @@
   }
   .home-text27 {
     color: rgb(255, 255, 255);
-    font-size: 23px;
+    font-size: 16px;
     font-style: normal;
     font-family: Inter Tight;
     font-weight: 400;
@@ -1532,7 +1532,7 @@
   }
   .home-text28 {
     color: rgb(255, 255, 255);
-    font-size: 23px;
+    font-size: 16px;
     font-style: normal;
     font-family: Inter Tight;
     font-weight: 400;
@@ -1787,10 +1787,10 @@
     text-decoration: none;
   }
   .home-features {
-    padding-top: var(--dl-space-space-twounits);
+    padding-top: var(--dl-space-space-unit);
     padding-left: var(--dl-space-space-unit);
     padding-right: var(--dl-space-space-unit);
-    padding-bottom: var(--dl-space-space-twounits);
+    padding-bottom: var(--dl-space-space-unit);
   }
   .home-text16 {
     color: rgb(255, 255, 255);
@@ -1801,132 +1801,156 @@
   .home-text17 {
     color: rgb(255, 255, 255);
     width: 100%;
-    font-size: 20px;
+    font-size: 15px;
     font-style: normal;
+    margin-top: var(--dl-space-space-halfunit);
     font-family: Inter Tight;
     font-weight: 400;
     line-height: 100%;
+    margin-bottom: var(--dl-space-space-halfunit);
     text-transform: none;
     text-decoration: none;
   }
   .home-text18 {
     color: rgb(255, 255, 255);
     width: 100%;
-    font-size: 20px;
+    font-size: 15px;
     font-style: normal;
+    margin-top: var(--dl-space-space-halfunit);
     font-family: Inter Tight;
     font-weight: 400;
     line-height: 100%;
+    margin-bottom: var(--dl-space-space-halfunit);
     text-transform: none;
     text-decoration: none;
   }
   .home-text19 {
     color: rgb(255, 255, 255);
     width: 100%;
-    font-size: 20px;
+    font-size: 15px;
     font-style: normal;
+    margin-top: var(--dl-space-space-halfunit);
     font-family: Inter Tight;
     font-weight: 400;
     line-height: 100%;
+    margin-bottom: var(--dl-space-space-halfunit);
     text-transform: none;
     text-decoration: none;
   }
   .home-text20 {
     color: rgb(255, 255, 255);
     width: 100%;
-    font-size: 20px;
+    font-size: 15px;
     font-style: normal;
+    margin-top: var(--dl-space-space-halfunit);
     font-family: Inter Tight;
     font-weight: 400;
     line-height: 100%;
+    margin-bottom: var(--dl-space-space-halfunit);
     text-transform: none;
     text-decoration: none;
   }
   .home-text21 {
     color: rgb(255, 255, 255);
     width: 100%;
-    font-size: 20px;
+    font-size: 15px;
     font-style: normal;
+    margin-top: var(--dl-space-space-halfunit);
     font-family: Inter Tight;
     font-weight: 400;
     line-height: 100%;
+    margin-bottom: var(--dl-space-space-halfunit);
     text-transform: none;
     text-decoration: none;
   }
   .home-text22 {
     color: rgb(255, 255, 255);
     width: 100%;
-    font-size: 20px;
+    font-size: 15px;
     font-style: normal;
+    margin-top: var(--dl-space-space-halfunit);
     font-family: Inter Tight;
     font-weight: 400;
     line-height: 100%;
+    margin-bottom: var(--dl-space-space-halfunit);
     text-transform: none;
     text-decoration: none;
   }
   .home-text23 {
     color: rgb(255, 255, 255);
     width: 100%;
-    font-size: 20px;
+    font-size: 15px;
     font-style: normal;
+    margin-top: var(--dl-space-space-halfunit);
     font-family: Inter Tight;
     font-weight: 400;
     line-height: 100%;
+    margin-bottom: var(--dl-space-space-halfunit);
     text-transform: none;
     text-decoration: none;
   }
   .home-text24 {
     color: rgb(255, 255, 255);
     width: 100%;
-    font-size: 20px;
+    font-size: 15px;
     font-style: normal;
+    margin-top: var(--dl-space-space-halfunit);
     font-family: Inter Tight;
     font-weight: 400;
     line-height: 100%;
+    margin-bottom: var(--dl-space-space-halfunit);
     text-transform: none;
     text-decoration: none;
   }
   .home-text25 {
     color: rgb(255, 255, 255);
     width: 100%;
-    font-size: 20px;
+    font-size: 15px;
     font-style: normal;
+    margin-top: var(--dl-space-space-halfunit);
     font-family: Inter Tight;
     font-weight: 400;
     line-height: 100%;
+    margin-bottom: var(--dl-space-space-halfunit);
     text-transform: none;
     text-decoration: none;
   }
   .home-text26 {
     color: rgb(255, 255, 255);
     width: 100%;
-    font-size: 20px;
+    font-size: 15px;
     font-style: normal;
+    margin-top: var(--dl-space-space-halfunit);
     font-family: Inter Tight;
     font-weight: 400;
     line-height: 100%;
+    margin-bottom: var(--dl-space-space-halfunit);
     text-transform: none;
     text-decoration: none;
   }
   .home-text27 {
     color: rgb(255, 255, 255);
     width: 100%;
-    font-size: 20px;
+    font-size: 15px;
     font-style: normal;
+    margin-top: var(--dl-space-space-halfunit);
     font-family: Inter Tight;
     font-weight: 400;
     line-height: 100%;
+    margin-bottom: var(--dl-space-space-halfunit);
     text-transform: none;
     text-decoration: none;
   }
   .home-text28 {
     color: rgb(255, 255, 255);
     width: 100%;
-    font-size: 20px;
+    font-size: 15px;
     font-style: normal;
+    margin-top: var(--dl-space-space-halfunit);
     font-family: Inter Tight;
     font-weight: 400;
     line-height: 100%;
+    margin-bottom: var(--dl-space-space-halfunit);
     text-transform: none;
     text-decoration: none;
   }
